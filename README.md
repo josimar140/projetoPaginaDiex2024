@@ -13,7 +13,8 @@ O sistema foi desenvolvido para auxiliar estagiários, professores orientadores 
 # Funcionalidades
 * **Fomulários de Estágio**: Campos para o preenchimento de informações como dados pessoais, dados da empresa, e documentos anexos (como relatórios e documentos de identidade);
 * **Orientações Procedurais**: Instruções fornecidas sobre como cada etapa do estágio deve ser realizada;
-* **Entrega de Relatório Final**: Upload e submissão do relatório final do estágio.
+* **Entrega de Relatório Final**: Upload e submissão do relatório final do estágio;
+* **Informações Gerais**: Resumo das obrigações do estagiário, prazos, e contato com o orientador.
 
 # Tecnologia Utilizadas
 * HTML5: Estrutura e conteúdo da página.
